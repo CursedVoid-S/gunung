@@ -1,1 +1,347 @@
-3a11a874e73c3930bd3d3407236085f9307097ae8246168befddcbf3df20a4dccb08234a271cd4ff065aa7f8993c67b8ea0383c293af5aa4d0645bb2cecaebbfc6dd7176fc594e1d68dff2b6e10ebf9d23d886f46fbd463c3d29187ee97fd9b92cadeef5fdfbb6e5d5658e3847d88d0a65b775d3b1fddc0be4ff7409370e3b11de262ceb78520b3bc1954ac71595fd264c1ce422b072aad338b2a173c77756ac9073398b6d3fd5acd62271ffe5b42d59fee2670adeaf5a21939e0961b6c5ead403d7c77b6e9d6d182129679a59a5d7f02f6b5e3faed33bdf2053c4f64746ffd97bbf1d7fd7e952f2286c155eeeb51ba151ee72d991fe564d9002946b2d626cf97ec7d6ce3376b46b9ea92cd2b4e753f722215e34c1a816a50ec42e9154ca2fc65cdb46e9298d59b975a68c9490d433dcdbf1e15d6ee7ad235518d027fd925cbe972c4b6e498f3f634b14a5f917cddbcc70b971a94c99c784d0b1595211f68717b965f42cf7fbafde6eaa31f7e4af79c3fa82e5b0b6069273fe791353012eeb183c099f7825555c3bf82e26d06d82b1519997565fb999b6956e0f79925393007bbba0640daf3a090ace965767ebba641b5d10da54662df6e2bfbe491f7cadf3218304da191aaa0d8ba290cb95ea4835587f267f3cb06ea89fa3de930b7c93f40b7621e0df6350c25504525a36cf13ea6ae23dc4bba132c972c2f7e25d3ecc48bb755cbccc3aa29c465d76e71bc058e57ebb9af03c34a28e33c5eaaaa651605552e4359080818ae257216195f30008ae2a0c118caae1a98a8d76604150e6b65ef0adfb8885a51a64f2f155bf29866b9243bbc2bf41babbff7c2e83c8042b4994f0579f8cf1633419dc313b30aead79e8fd0f1b10ee6e221aff36c2f7aa059d94319c0e53d71635988dc047711dd0c0e2540ada57f910828140a368d60d21cef977570ac5c0049235eb7b48ea803c7ce2d27827c71d920387c18596663d413b9546627cc2ed6dcb57afaabdd620bd6615861e4b1119e9644e5833fbc4ab2d31faa688850353fb8f0fc7aac8f0ea1e6f7a9da8466c8fe655af3db7923cec714d1c1f4515d80a90d803d7a1ebcf1221a96a90683dcd2c51f6558429a76c0ccf6a4620594a08c9f93986185a59f3860436e3f25a77e452e74530260dc34330724677a26820c10c1cf447fad9a789288962eccfa405cc38ea987d0ce0d7d43da130b826003384b98520ea12de7482ab9c6ebaaeae52f874d32e042fc28b84984e875377bdf3088f8bbbccd2a4b39f00768b63bc200fdded95f90ce179100d479d18dfba8638ede220f09617c7d2599e9a2caf98658a33aa6f3450fe821efd3073d33221050f34a9ac80e892daffd5704000453a5a7e8117ab9d56de4b1b2b3ca8590d2a5c703e83e346dd97ae8af5b599f1161758716c92ec6b32b0de5556ac2b98ce90e27d8198bc642ad5efa2f33fca5728b1aafb8397090d08eb51721990a9a81c164105368754c7cebf586f0d5fa215977d64509bf4414c3e7da1c9ce235adc9eddb57169874c7d0b13a52aa8123bf091347e34db7d81b81eed41275ab8d9048b63c418e423dc0730d1194db493839bf97ff2e52f7a338f37b95f69a1a4a1e459cf80c4f8d7f3c2f68bca4e4241235264a2821a466e035aef727febe12c86f460bf5d5a032b8cd98860f4ed5ebd83a477b29673c3ebc2e8c616e05bbd4cb35a7270f697c8fef536e3b5a1590f5edb5dd61fa77c6f749efc7e9f9a9af0f52d362fe0b5e05a93d8eeef5a51147cd448ccdb1f1190cd0f783eca3c250b493b98bf539a7a0929887d1c9fe0478102b6c1737617b1952829e8e08a724045a4b9eb2271d79eb044b4e23abb29cd721edd05cac006bff6b18568ab91cdd64b00a72b4f28851fd7e7772ce8d3865e8577be4dd3381cc1abc1ceed03185f04f51d143a5e744a340cf967e89ed57f838f1bab3ba0cc48ce4095ac70f1751ddcade3d236b8747e86d425f98d2a4920eabe86447a72a0fe0e5eeb0392194c9c05336c7e7fdfabb371d34e8f48cd30818c258dc557af5feb5e258e24d55e37795690be3a6e811ea16a02cded54da68ef91c5a08e4fa7ff5542cc027a88bc7ce769685321ce03bc824a9a39fe8a2f78f43e536a1c7fe934f3b8a02529dd00d524c9af02385bd09510c7b35652225ffe2b65e87e8e9f63b91f9704fef4c5f7b533fbabb29397e78e0e1e7a791c65b2ccfd69852210de44da5ff77d8bec2953ef5a3c939fcd3eb8642f45cc8c70b2e809f6193396f6844dc5084f4ff5a9d6c1d0bff8b06fac30c3e990ac48405160adaae8f05c6efee0f520ba678bbd392fbcb8510e82a2da628cfa1f65121c54cec6e728c720f021b0174088e4d172c92042385e1ffe49eb3b35190b1490b371ee7f7eaeb70627c66e3fd09e358203d6680cac3c599f2a4892212e64feee7e1ad3776a6a69ca542ce9e3cb073a675e113e9d058613698ce9e977875ed254b943d98fb5117ee018b692c42688a01fd424b6c8eae8715f29172eea0d18c29c5801498be39626f42bb282a91fbf88f2666101bf93c9f51fb1e203aead372faa4e66f36ac442700df577d6cea8e83cefd0a90b2920588228bd21860d1bb6d2f8896c4e6b8ad35395450536a0a88684366d037876ea53b7aea1fe198f839c6d3d1d966986d3fcf0b166a78514d55e4d8a7203fa37985a6b2afd697ae4520aeac6138049485a00e594a88bd3bca4c42b5a367d752d8bbcc76724536ec98b13d9cf348017ca2cd58d639cdf8c6bab2c902a1000f188b3150470394fd0394507489291cb979137521a141da2a9db4918980f3ea027f9123c21f657b0676b1a5003b14a1281dd41a13a4024034eea9581a0bc943c93b7e1a310037dab325e33bd8e977a1bfd3cb97463104896aed3bfab541f9741c849920fed0d2cb58975480d2c4c135cfe1972849dc91aac5a7b2763390a8f567a2db62c83fd10eb7f8bb2b98b61a9c1944a9a900aee2af05925079b6921a6f9e157b4a552afa89bb0238e49f116d618cf1eba51b762821b6a525023528526feca6c59baa03d2aa081606f7a86c13c7bb7b09c982ac25e82f6fe219588daaca6abbfbe692fb1714a65f13f2bcb1fdb4aec22346cd9a5ab2ac6df375d2f11e3fbdeda0193f7e8d12d36fe77c0ae7936ca701e72b4d6c2225e696e517151989e117e7eb760a360f7da6dd284367bf0c41635595c175a323b614a7fe63fed3ea3c290a57c40bd4a43c556f79b7e64293eca888301a66c89fdb2ad7dd8bbe092981eb7aa601abc99e0c7e6a93c0ecf38c658a9bfd647310b742072b7c89f1aefe57f64d9ff78512791073405714f2e98020191465e9da881430e96e8c57a9f1da1c60ba5e04a8abbd23369906ab246b4f5f51be73c54aa31598ed1205e21521733c0bced1e69c9f6ffdf7a2142c9b3e37c22955bb25448d7a1decf6f306317e07d1fe1a1242dfea156a2a1f3f59b870da2b6b2a08bc5a90c22afb7b7c05d6ba1999a5f0328c57767428ee1b811735ff5831ee2494245011b4f026a8767629b88b01ee96f867c5f2cd62f482f9098c7cc7db2d8ba84f362dd92a06d575cc8539b01a3562b874990216b168205c2b0dc885cd77d4a87a2953d51cc166ab52147ceda50c892418d58fa4fb8e94af450109ab6ca57da6b9789eee9fdb7e1cf52e83a7f02a44f527d97808842fa62f2294481339e37d225a9f51d2bc9b184b4486563ca7aaea6837cf3e0b863099159bbd6675e38f48a12a4da1a6becc4bb51c0e80f0cd5dda8de745a6ab4ec3a2ef8b0f0c8ed3bc1363c7ce23273769e2e0ef52746efac2a4d0fb5e16919a9eaab94ecc15b21b8f7f6a37b697f3c926b8f213192bb5b08056807491e3a2e001a015145ea05ecc78125852d3359aa1cc7097f32c954515ec6c1dfc16374c9c25e26b05cc45ac673ff79e367721024960029deea34591fd6a01d113da3aded2b7fbd6d6e4122f563b61a2565e6826878b51ae5f57336f3e7db736ca6cb65da4118a68e603964a9ff429a1dea6f7b54c044b7c48cbcdaae7702f33179e5d48ecb714b155c54b793c5fb729a061d137043e51f400978f0b3c17ca7fcd29f18dc97ab990336277dd5c073ad4a7af5578d15269464849395a21661da54cb0d0b19199e7816d63e2b8ec4ed20b1f5652f1ab5f0d4c80a9fc8f69b2b0d69c9864dc0fc90d2993a4df661e5d60747656fb939f499f5f1ea1c9ad3568ce2431c871b742ccf1b6cf5d19470df86da1454b5a33a6cfa71e87e63ae4d73506701713def211874edf6faffd762922bb995ef9f21399ff779f19bd25eeefa87eaed9bd6502fb87405abd8ed0d75db3952853a13e8d428af35d7cdfc5462c168453792b62618202a4c71c1d2ab9d01727b103029cb9c521d8876cbdbed4aa1f86b614310f97f33176f72f385041f9d66f197e7e90ecedede66bb759bdbb0ff30b942c575b431bda4e64b6959eaba0e1df837dc6541e5b0e84bdbac4863fe10022fa8f5a2c53ffc17734a8180076aa71b1b5ccf76f84e802129569e3e2b7448e7d9fb64346aa9ad23b5d46f58319f6951225caff683289d47b3d8d6c83b0779b2f52fad69062f3fd95bfff7b31f2ed2b3b6ce67022902c029b304e9d3ff7b13d353e07039e627b6237950120c0899b5180a12d18001c98e974e9b726f949df88434cd8790e3450a5cb0580cb5e4f16e5e88a053554a0e43d39767fd6e1ab92fb84c39f770e6c86b06cebbb997bce472988b69b3c127a8260d307f6f9000f0bbee4205be87bbcb6f677fb5a882aab8ea563ec1c0f8b10d11f4892238a0c70c1ab3e4ee700fead7b513e162e0ade8afaf688a0bdaf712eccead26a4baca39513282f60e1cae6e79a1470615892e72d4bc2a7e30d31225643954fc24367f77b9a44a46bd7a344436066c45d47b3223df132876a438138cf3d47b700ffae5d0837ff68809380dfd6888b54c48f19dbee4023be7a15ec8ae0479e941f6615c55c68ca9403e1fe4fbebd72f92f06f7102f56a47f312670b07a0be6c7e6fab2eee21aeb8e52e69dcc8d2d61aa3e59c5cc12a7444a2758ba71d5f4af4299544762ed7b3e8a8a56ae25fdd167f28920160a8b9ca3d134abe6d88bd1375c6a6649b207351190f8342fe9c9458d0390bfb79ec982b3f2f78659c5eb0237ee1c06b3ce611bfb4604859f6121f23766df73fadfb9204cb877eb70e6db4c700ae28c1df58e574408d99726154102219194f2629b8d00618267ad766ee807a0277915af23ad31882cfd8561abc80863912dcf1f4921965a3db20571afb8b54e014a5ee57e5bf067d3d248b6cc14a3699e359110c4d5229aec0806331d6c664e7283239d61af276c9ddf5cf3562339cdf11f90f770e975682dd20da7de70916c3b27a5232539ab70da60b861e7993a090417c20b03a1c4011c1e376f9a313b5131279b3753311ebdad0f851c6bcb0709b9485a56651c804481057ca91e030c557db56b0b08c80603d6896920105ad62608986fe30515d913f8410b8dfa57d2160298034df69eed07c1418a1355edcb50cc0f1dd9b1b4b6ea47a1193ed91b97b9fdea0cfd7eb4153a3a92a47245720629d5d2b5d5701114a38971d5f71585e832325d0f3a90bccd198d94ac3868834eae5ff9283a9daee7a731106acb5fdb127638b3b2ed4332bea2b713f95498d93b31bf3e0b7ef8510bfc1d90782fde22f8fa6b3f9c6b87629c55de9447624e2f1a0d2cc72c43d13c5f5c5243da4d3e06aaf57bd0bdddd0c64ab63426f9884c69bca18e88d9a4b8756964f6b756c6168f4729e0d01666d03a926e9fa0627580d89291e679d9821dbf5135bef6096407e2f69579a37ae1d1b7c4fa72b263b048b88be9e470ada32c79b78a46730ce4a5c9e93d4d45add1ff68e58313b238cac5c6df189b696e7ea4b8ae202bb374113d2af5c10080bce905449ea7a5c2757b913de07f9839f0f97fc2ce25167fef94930ad743ed618c19d68736b704c500dcbc3a46b4bf28985e029a2d3ecc7e6d385581f7eeee2c9b70487c8ebf9f737223a8980a811b109385cbfcb8e238e69f678d8b5d7be68e36d8b46528c9676930516f4f7942309c4dc493d4f8f1ff6b9ed234772f6065b4af73ff8060f36a7d14291f27b0a51bd327e397eadcda62af1bec606bfafb1d1f4d025611a9dcd24a4e10558a493c179088b262a1ad047de292345d52c46ed186fdca204791f2fb4ab408f031a7308dd98bf50df15d40d51845bed9efe689861c8e6747973590a2251e9a0824c216f5567d05a7175589022a5b4c56d50b0d221e38a964ba0bb09e3c6b8caa01a477ee19e53faa4fa704f21f56b0eab3b6ea55026f16a33da87d446e74417577ad39fb00d5747175055e386a52aea45a7b9d9283f67015b6fa20662fb47327833c378078b5e4a543e452ca2ec79c8fc2441d10f7bca20d43c459c46832c6bbbeafc8e03fe7e78bdb8e2f5551e47903354c5dbb1ba5e0ce76ebcf9d2f4c508e123cd5d55019536c1925ad84e12ea5de085798178919e939ba6d152e536da02a80689912426815993313c430fa6ff4c9c00525ac07c083bcfbab525d8282e97b0ca246df20e4697c8d3deb32ac912dec4fbf1310881ca319e8a5493476a701c784427906fa5e20583ceaa6167e7a15a976707dcd54f0a3f3f37da544b6b01c725f16efc547b682bc0176a2add8c42f2df56f7c307d66fc8010abcccbc0747d6a931dec671193753e2b1e445f5269f880063e126966a7d988488615da2ccf1740a0f1e5ab3e6c9c849e61cb566fe360f8a8b2e1b7ff58fb804f99ae5e20140bc28a0efc8fe8bb124d18b03316d0da77b462d75a7ff4ee05fc52bd1f308523c5eeccb9a56835d207430c583ad09294e40fca3db03ace2432e78c76ef6f259649d98c4145205cf212a15a436d1b86e9b6e1a72062ebb646d4f3abcedc9f95e978b2eef388d7a07f9d352bc6927e2ec267e6f77f4a67f647b9c890a7c2b3ccb49a5c046fc287109543dcf94d63b6990e254996d35db2659fc221da6dab9fe07907120b4be781cee1cd0e6d0fe5dfaed24ec01d8c43c3058db2317d488ac79bf6c53899b35e39073643918c7ff1e7ad56cad2a5b6901fd958597af5775cc0831b68848cc60ce36abb63ae22c2bf1cd35e2dad1ea594fd44dfb617cfcee19e1c579d55421b28fa4fe52b48d3452d17f0ede6e576ef47fcac637b329dfd47de44ff239aef0d90c14f57dd4e3d2b77e3c40d917a805152b70bd39f3ace5a937818226862849e3b54b54509947c50bb21fe3394507584a24036c56c98a54310505196b30f734cfba65d7ff0c85933f3a709197871834c13b5d9f25771fa0ebc9475158bc38b665e1591d5a2e90126b78d865ce40f1c7bfe2973ff4d7e49eabe895ef168ff23ffe4606b91f4fa87943dcc4afd24093c39a1926c94d196d51b5ad9725b1a8de2cc35a622e920e012e752a090afa333d3774ddc56b62e20a9ddb5f533a9a91e7fbbce6a49b57ce80df4af21e26cb3510f40caa7928a17dda09d4938f3e749b8728d0f50f4a9e73bc15c42badfd6c50c97784d14f4ee974a613c1d6118bd40e19869c53baaa7d0faad380d23528d1896b1b88c122a6a689282467d389fd7f9f7d733fda555a619209cfe6e78414cc848e774a2744cf53bff61bb1cc31abb9b7af8095a054aa6cb3065b0fb01bb6c60973dc1c0a5a5ebb18e3a990e80ca9c558cf384fd68c6e2e981c1e9bade9a57153307e4054164bf18689dec42ed2a94b7693d2e98f2420966e6c17adb2ba59c0791e8e5c92f1ce37f4ed08bf45ea36255329b558cefc7eca6f17e97bfd63d0155390799bbec53ad5f5f92f7fcba0e87262ee13360e78e1d6e8f59ca58e9083636e660bb3adbc55fa29003f5c4ceef07415012ae9f23c8e41f9a4e7a976b0751bb5fd2dddf6ed987da7271ea187b470327c873b8444e2f7dcf6608c62036c7880d51ea9c207db10ba2c6786c7450cb4d075a2ce3957a30158199ed913bf0584d7ec2b42b35f9b0b31612ed76515957cff428bc49677415b9a00dffb0a34c7753a832bdea0081074f84ed030fe5975d1b234fbedcbce54758fafc1f85874a345866df9c10b28634c49a431a4b08c6b82a8e22e5224037dddf5151debb719fa0348162b8f2521e534099c974f270fe69bc8e89e418ca2685391be188ba471d6a3d11de4c40ae61192fce3a1a8041a7684519077c5fd5a2adde15e434fecece4baac4c94646ace3e478376d9835205ae1b1908df7d628c91c1bffa262970064ea820f133cb6d24eb85629c40093aec33f40ab48dcdd3fa741ae52c4e74c9d2cd345fca56fbd141504b80432cec19e36e35dbdab5ffb6499453391467e671dda7611b79ca114f3c9ed2056deedf38002e54b2dfcb0707462c47b3fb463f4ace5cdd172f63218379bacccb21d44f3a99ef7fc2a5ccc056637519ca83d6e0c80f7f5e438864521659d70cad49b2d05f7f502e04d66792253d2bee83416006a09ea6f76c772eaed7acb404b8d6ae159747c998739dc735d38865925fddd32b9248fbce0173227c924c7dab5dd8927c20f6b828bbd87f19f2ccedc42f93097d47ac548ef2b27b221f57e1f7e3ff2a95ae7a0c30b66a7efdf99f072f089ad79e016d302294165a706d8faca7e53ae40b53dc7567d41ad3e1e5f7ec9bffbffc01d41fd7b004e4e77361a63bd88ddfd88b5ecc5d11ff038adb940277c3aba5671224859e25403df428a4da589cc6b4e8c00284e34314b232e1f02e4fd72e999f436c936ebce5d9934ff94b1c7fe40d207695574fc7d3bc155bb7d66c368bd2fbad6d1b5d5cc0702491da9e4f479e2d658b900d839974d673b3056cc5385954ce9ef32f34a620ad743229b6f9c17d65b1ad887efeb9b24ebf7d8ae1d4c2c4b26bb5ac1e75e8616f360c36aca6f7d52bae81460564f889ad089fe3215396510ac1853c21c125fef650c9206b03848537115f4c5df9c339d1712ad8a7c619434886a5edf01d8d4e41b3834537f33c7ba830abbd2af5cda877cb763b450ebf91f2b269f03c7563b0247182d76e5b15a4bc4ee94aac845aec0e751a83811e399931c4d096ff6f045de71012bc1fc143b4d9fd315493cabf0c02576d476533d484c631ef5524651f527c0846eb405b48269d44dab178870fb41942c37bf4a35bf32fafce9b38f3bcf72df5bb6a66c8077688699dbb713d79d45e45dd5db4e3e654f38f0a36eed724754393b8462e234ba49887cdb2a4f7a6d777fb242d3fe2473570a939ac4203e637835ed2509c4e8cd623254b1f0ddc379da7b896a910e4a5e3253f45e0829176e818fd6c14b720f92f7f4ea7a28836ea1036323ca581ae37e3072353fe4322b553a5d3346231276a00a20a7b3a275a2ca408661be1b6a2bff7c75b693873a3d4fb920db6294af9f99683860fec423ee940e44ee71c7018ae58ce0fca71288b7afc4ca468283ea662c860af2b99f4c33424a23e89c41c8e0bb11b3a160afd5139b8731869d02a8ee20ff7371e7197c56d0dbca5d0705b74d3004d8abc57ba89b0ef122f35de169211069f486ec0e797920f1b48ac9224ea21637bb74eb4a58b0cc9e585701269e05e525bc6d49c3472dfe86b6473bcee77315a215261702cc044968f04310bc61eb83c95c6fc36b82107a71d656bec51003462a1d72c33aac16db3d49723e91f5fbdab28716dafc7d6f364372f02a3cbc8aa85274d38636fe311f63365ae047331bd5de537de9e60ee2520e5b222158710f864acce50c3ab954fbdf66d02186ae91da420c2ea8830850828e0833d1c9a3844a3e3719f7aeaf4f098567269663d3bba4e1b41ae08b36168fc16cf8eafb2e7d55c1d109c55b0a43dd81ad4219d26ed013fff245e5657cbedf919e49aca95fce30024ba4f4a158771f1c10b52ee07589f90523cc1e8aabe70e412c6b8d3d26bc2cc0143a524fe2c063a1b2cf03fef77b7f5b661e837b6559d47ac9432a17802c4fb7a54ffcea98439cb4856085ab57974422ae17da766ba770845f2fb984a6aa38fa6091a49be4be4687a9d9ee55160d944584a15ce55653ce8cc193a75c1799c92c0708f197fade8df664ff1ddbe60f73b26625afaa2c919e7397c80236e725a20f0886d45e2943b0ac8c5b4950d90ffb6dc7abda966876009bfe35a79a9e5b5964af8e35ea010b38d192e9f94d7b94cfbae4ff8ca68a522cb242dc74a08c5ecf6af42122058845723e63ac45ea94e0b271a24e7d7ab6db46adbba06dbef66548dd03f48aa5d104b8f8dbe089dd9cf0fadaace9619617a135580000dcd14decd6f9590f210d5ad4dbad318509e7b2afb2a156b4a700d708bbeb50a13be679e95f04dfe546e57af7e1631beeb8edf61736e8aca732b970b73e13065b778873cf112aa14eb353237e10a2bf2662b1fb1b0f826dda7d28aeb00cef8e0e1bf76560fd24578bf8d2721a7c99567bb0cc2a66550ebb1281c7ed32f004fc4f7f523558990c2e42b157b293bd19b81fcbd3215ceec30dcf50680e05fc120e3aa0ff91ab6faf3509d9ae935f19df1103b94150ebcea0029bc9600de3919aa6093937a9555b5956d60295a2127c7c8ce1c9045ef983aac60f06e611385f57538791010188e75ae2f87d45c5a780955ec47bbc7a5c658a43583aee3b83c06da3d3fa6e064ae73758d2b7d05c79bf5d5e1ce5c6852a95de616a340f0deb7c9dd006a9d5d3f3c082f310a154c36295da620c0580685c7d90859b32433243fad2c3c8113eb32d7424334e2ba5357ede13b358fcd95246fb6b3260e98e39dc7ee9885bb70cca263f5d5c5d51a75c679bcce082ae834a3e3b329c84cd29873d3600be364a46e67347a972e02d336593e2ab65d637949056c957352109bd1d9e5955596e4a862726fbdbaa263f18aae67c66ba9f6f1ee2b4bb35c3c12b72f24bbdf65c898e2c61d15a0837aaf099de1b3667af841273e75d10835e70d02d753236a6c4d7ab794b7d483cda85ff27bf9da53ca25e589cc96b06e99cea7edd8b77d9b7fba427ed684fcea1df21962724b89a36f6c46d7bc477532fc9f4dbafb4ae3ecb6e74a4eb4eba77854ea7fc8ca0cd22f50007918b253ee3590bba631313bbe8ebafb00208eca3c5cce964cf0571d046903199950c953f18ff13ec2bb1e7473ac2bfb466928269f479e298407ce48fd6387689e2d13b91efa7d6416726db856df7235d39176d0b535b1c2527cade71da3f2d92b0d172cd528bc3af6043683bc32cc70f172e332aaf7ac0d110128b13e48cd3d3efe8b3ec1565e4edfd3797a69d6b01d4a3a1e3499c2870845c861e938343871b321f95347021151e57a2c81d8cfefd562361dd6542809bb2036b65440a14b467577c4f3dbb6e8911845c8e09da04c86c63458eef51571c1547798b2792cc9f2cc1d3b6994aa49abdcb4830dd3b871b992e5006bdf5190f2e64ef37d2e5a869be4165312621e230aa7076af5207fecff3a5afaae32f539cc19eacbcf2eb96da7a7262b0e6f33c0b6eced407b4b7af6b8e806401ad6ff0ebaffc1401d4e9983d8198aedc804418222e5abd26ce313adc25298b7c62882ec5bdf754b2085ea880a061ccc144ba2f52b5d5ae99736cd3d72e9e850f41e69a57ae5c76236e424b1a804e2009539d719d995197a15afcc2c02f8dead6de9285283f16dcf2be33cafab625e86f92ba7c77c55324ad549c218b58e2c9492c84036e79f6c370b0bfb756c336895fd6320dd6a9177de38b2d56e4c5250ca471448ddd8e6b77fb521ef35a89db510246747b90185ed2604615936a3e3e12c32177120566a23111545280675772468a4fc9739280385ed02885c3e71d36d160a45e1384e8a49bb4505f121f95d64d43ec18476c0a7431fae50993608888ae5db57dffc97998f800f9388db9e46816e9a3b2c39e3361270fb1e8954b3b640c8d1829a470f7f7f248025bcae3011e5470473427ac7d9cb4e042bba55715f7cf9fc9fa3942cf8298163e1909ca838daade76f71e5bd8283e9b6835becd13048824de0ebbc43e9334498403d7d1f58e2abc8f5a9dcb1ade18da3cd03ceffaa0f650879575760783ac7ce5ea6e76794b53f9b2e743cf9d1a6dd308de1ec9db0cbbbda54d660e426f7d121eb77cdf8abbcf489fbd2b690d6c38b2cfdc6974f620e50c854fb9c389245fded3c51fa40250ba91a059c9df9f868261c1c6c442e1c5968bb398502154d1f1125cc66d07915347d58f22fbb23977146fced6bccc330e50e935e51112de04e54f5412a2c080a84924ea2f74504da3a183610a60529ab39a70fc1407218c2347dd991f4f08e3ee025f7c0989be675e5ee299639eabe8a3e5f56afa2bf33d6c60224de1e654f369de433ca725352ee959e4cc813dbd98a5c54da0ac988bbb0034d25aca07966fd9e8bcbf331a9ef2adb86c5085adf4183c76b79d28fdb832f5a32256be3cc8e04f29fa5246718c1f446519c714689bea8fadfe5c8051099a55412aca864dea4a9c2d37cfffdaf4da1b03e62cf986ff8096b92129c166e0e2b63d520d394d2ad936046b6a26db448a478679ab784f7bbc94620f6274bf3ed0f9d34ab9f1b7c84bedab23ecd781cf3ac8b411b670a2377d0c3f5439b878c89ca2b140480abd293ba6c0770d519ba8ee1a3c70c90d93ed89475c373bc015dc58dfe6f617f61516586f57d41cf946519c7cbfd528f6f7d2f85de013843b6681fea54f31e45c4879fd54d91e34d000a6021a4a17c21230167bf72f9a35a19fd597b082fbd4432e69d6c4c0200302ed38574461c82b368cb3e489fab5ebc9e84c8a249585bc2d4904b24caa86054ead724002ec7d4c30091a0cdf0c9a3b5c4320979cca58bfddd162a0dd43898b535fea011e2fc2f84ad99514512e7fc3df0c9cdfb7cb1b25a9bd404b776397e0a6317745811b711749beb6276c351a511af3b709959eaf6d648aa4c95afd62005f55fca510fa51d56c964a643c9dd681d30e8cafde5d8483c50f0b71f4fc4f4e07484d3e86a85e785db98a351360b4da6b24f86c424d00d6c95714fee4d0f4d9cce0117e138b9f99f1545cdfa654418251d217151ea33c30469171f55a58de53593ca5fe97184469b0f1ef83a312b45050cd4adf99ad859a0bc5a09b9eb2ca236b2885e4bdcab3e1ee704605a225bd748f0983570ea731d16bc62de3083af7c0abb4f3ae5483fa5770bd5e6f894a4c17f96626bd63638efd597bdc04eb326afb2b4d3a86a0089bccc96cdf7e68882a869bc7f97998f20e0bd815cbcc5a6fd62c591c98a4f6278e8ce2a5910efc11eb023601d277a49cf5cfbb891aaaadf6b0a6638e2365250d7a30cc69a403e6754ecdeb0e7670db4038ac29a2cd8c7aef73289fbbbbba5bc7935b31a44390120d21b6ca42953a7431689c53e1b3b5b2161fb77c1905207d21d93395a99aebe62771295d55a0dbf1f1c643ea12cf267094134954f423bbbd23c1ef3d58f679e6d0c13420e35801d23b281057d2b386086257a1f22fcd9a9f2a623739cc5ac66d18f2c8c72cec79a2b882f7f7a4c177ef68337799599a757ef78311f3bceffacdecb01e8552270ff415208c552306d023af243d7cc5cb3bdd351e600eb9d194d0cf98607b211600abd36ef5acd1d5208c87afe7a2f71b1a49f30db116b3b81eb8baf918e1e4fa90e1dd92ec5d08acc8fc878a4f9db5fd1c29f4dfe6a2679bdc8c1a2bd32cee925ef9bdc03b912371ece2f1b9c5710ad51637af0faec2293babcec91596cd131870bba86e09ef27148d090029bad6e14c1a9756be5ee6863de065ddc4b7a94fded8712a0d92c3de35b46f5d4ac57ea66301562c403912525dcb2973d9a22803d4ae65b0a18c538d77264583ea2031f039211da93590f51d1efe08aa3ba68a1227f43bc05b78546972b84c6fa935d8e14c980595fa45bfd280b65a90d0f186c02a70639e84527d9890b38d2fe7f846f88f17abe1c08efdc6efc03498d6325b0588097db73d7bf9306e106501c612d51a274e0a8f11d239e9f68597c42e1ed5bd764dc2bd469b67d9a621e9a4ba35e48aa6cf3ef2f32f40d7e9a64638b8be1f860d37de0ca40e2488d931e391b6ae011e985deff6dd7f0dbdfcfcf8dc745c550d5aa59777f3616c7f2f8c6613aaf6fae
+-- Roblox Teleport GUI Script - Updated Coordinates
+-- Pastikan script ini dijalankan di dalam executor yang mendukung GUI
+
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local UserInputService = game:GetService("UserInputService")
+
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+-- Daftar posisi teleport (UPDATED - POS 1 sampai PUNCAK)
+local teleportPositions = {
+    {name = "POS 1", x = 16.71, y = 55.17, z = -1082.89},
+    {name = "POS 2", x = -184.51, y = 128.12, z = 410.02},
+    {name = "POS 3", x = -165.30, y = 229.49, z = 652.66},
+    {name = "POS 4", x = -38.05, y = 406.52, z = 615.72},
+    {name = "POS 5", x = 130.50, y = 651.73, z = 613.73},
+    {name = "POS 6", x = -246.89, y = 665.75, z = 734.28},
+    {name = "POS 7", x = -684.70, y = 640.81, z = 867.17},
+    {name = "POS 8", x = -657.72, y = 688.47, z = 1458.55},
+    {name = "POS 9", x = -507.93, y = 902.91, z = 1867.53},
+    {name = "POS 10", x = 61.12, y = 950.03, z = 2089.24},
+    {name = "POS 11", x = 52.36, y = 981.52, z = 2450.20},
+    {name = "POS 12", x = 72.50, y = 1096.91, z = 2457.48},
+    {name = "POS 13", x = 262.49, y = 1270.10, z = 2037.55},
+    {name = "POS 14", x = -418.36, y = 1302.17, z = 2393.75},
+    {name = "POS 15", x = -773.39, y = 1313.91, z = 2664.38},
+    {name = "POS 16", x = -837.46, y = 1475.24, z = 2626.15},
+    {name = "POS 17", x = -468.23, y = 1465.68, z = 2769.87},
+    {name = "POS 18", x = -467.19, y = 1537.45, z = 2836.36},
+    {name = "POS 19", x = -385.24, y = 1640.28, z = 2794.49},
+    {name = "POS 20", x = -207.53, y = 1665.71, z = 2749.04},
+    {name = "POS 21", x = -232.78, y = 1742.05, z = 2791.72},
+    {name = "POS 22", x = -424.79, y = 1740.43, z = 2798.86},
+    {name = "POS 23", x = -424.14, y = 1712.74, z = 3420.33},
+    {name = "POS 24", x = 70.43, y = 1718.68, z = 3427.15},
+    {name = "POS 25", x = 435.99, y = 1720.55, z = 3430.46},
+    {name = "POS 26", x = 625.42, y = 1799.45, z = 3433.81},
+    {name = "🏔️ PUNCAK", x = 111.78, y = 2474.83, z = 3472.24}
+}
+
+-- Fungsi teleport
+local function teleportTo(x, y, z, posName)
+    if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        player.Character.HumanoidRootPart.CFrame = CFrame.new(x, y, z)
+        print("Teleported to " .. posName .. ": " .. x .. ", " .. y .. ", " .. z)
+    else
+        warn("Character atau HumanoidRootPart tidak ditemukan!")
+    end
+end
+
+-- Buat ScreenGui
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "TeleportGui"
+screenGui.Parent = playerGui
+screenGui.ResetOnSpawn = false
+
+-- Frame utama (diperbesar untuk menampung 27 tombol)
+local mainFrame = Instance.new("Frame")
+mainFrame.Name = "MainFrame"
+mainFrame.Size = UDim2.new(0, 280, 0, 450)
+mainFrame.Position = UDim2.new(0, 20, 0.5, -225)
+mainFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+mainFrame.BorderSizePixel = 0
+mainFrame.Parent = screenGui
+mainFrame.Active = true
+mainFrame.Draggable = true
+
+local mainCorner = Instance.new("UICorner")
+mainCorner.CornerRadius = UDim.new(0, 8)
+mainCorner.Parent = mainFrame
+
+-- Title bar
+local titleBar = Instance.new("Frame")
+titleBar.Name = "TitleBar"
+titleBar.Size = UDim2.new(1, 0, 0, 30)
+titleBar.Position = UDim2.new(0, 0, 0, 0)
+titleBar.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+titleBar.BorderSizePixel = 0
+titleBar.Parent = mainFrame
+
+local titleCorner = Instance.new("UICorner")
+titleCorner.CornerRadius = UDim.new(0, 8)
+titleCorner.Parent = titleBar
+
+-- Title text
+local titleText = Instance.new("TextLabel")
+titleText.Name = "TitleText"
+titleText.Size = UDim2.new(1, -70, 1, 0)
+titleText.Position = UDim2.new(0, 8, 0, 0)
+titleText.BackgroundTransparency = 1
+titleText.Text = "🚀 Teleport Hub"
+titleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+titleText.TextScaled = true
+titleText.Font = Enum.Font.GothamBold
+titleText.Parent = titleBar
+
+-- Minimize button
+local minimizeButton = Instance.new("TextButton")
+minimizeButton.Name = "MinimizeButton"
+minimizeButton.Size = UDim2.new(0, 24, 0, 24)
+minimizeButton.Position = UDim2.new(1, -52, 0, 3)
+minimizeButton.BackgroundColor3 = Color3.fromRGB(255, 193, 7)
+minimizeButton.BorderSizePixel = 0
+minimizeButton.Text = "−"
+minimizeButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+minimizeButton.TextScaled = true
+minimizeButton.Font = Enum.Font.GothamBold
+minimizeButton.Parent = titleBar
+
+local minimizeCorner = Instance.new("UICorner")
+minimizeCorner.CornerRadius = UDim.new(0, 4)
+minimizeCorner.Parent = minimizeButton
+
+-- Close button
+local closeButton = Instance.new("TextButton")
+closeButton.Name = "CloseButton"
+closeButton.Size = UDim2.new(0, 24, 0, 24)
+closeButton.Position = UDim2.new(1, -27, 0, 3)
+closeButton.BackgroundColor3 = Color3.fromRGB(255, 59, 48)
+closeButton.BorderSizePixel = 0
+closeButton.Text = "✕"
+closeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+closeButton.TextScaled = true
+closeButton.Font = Enum.Font.GothamBold
+closeButton.Parent = titleBar
+
+local closeCorner = Instance.new("UICorner")
+closeCorner.CornerRadius = UDim.new(0, 4)
+closeCorner.Parent = closeButton
+
+-- ScrollingFrame untuk daftar posisi
+local scrollFrame = Instance.new("ScrollingFrame")
+scrollFrame.Name = "ScrollFrame"
+scrollFrame.Size = UDim2.new(1, -12, 1, -42)
+scrollFrame.Position = UDim2.new(0, 6, 0, 36)
+scrollFrame.BackgroundTransparency = 1
+scrollFrame.BorderSizePixel = 0
+scrollFrame.ScrollBarThickness = 6
+scrollFrame.ScrollBarImageColor3 = Color3.fromRGB(100, 100, 100)
+scrollFrame.Parent = mainFrame
+
+-- UIListLayout untuk mengatur tombol dengan sorting otomatis
+local listLayout = Instance.new("UIListLayout")
+listLayout.FillDirection = Enum.FillDirection.Vertical
+listLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+listLayout.VerticalAlignment = Enum.VerticalAlignment.Top
+listLayout.SortOrder = Enum.SortOrder.LayoutOrder  -- Penting: Urutkan berdasarkan LayoutOrder
+listLayout.Padding = UDim.new(0, 2)
+listLayout.Parent = scrollFrame
+
+-- Buat tombol untuk setiap posisi
+local buttons = {}
+for i, pos in ipairs(teleportPositions) do
+    local button = Instance.new("TextButton")
+    button.Name = pos.name .. "Button"
+    button.Size = UDim2.new(1, -8, 0, 26)
+    
+    -- Warna khusus untuk PUNCAK
+    if pos.name == "🏔️ PUNCAK" then
+        button.BackgroundColor3 = Color3.fromRGB(255, 69, 0)  -- Orange untuk puncak
+    else
+        button.BackgroundColor3 = Color3.fromRGB(0, 122, 255)
+    end
+    
+    button.BorderSizePixel = 0
+    button.Text = pos.name
+    button.TextColor3 = Color3.fromRGB(255, 255, 255)
+    button.TextScaled = true
+    button.Font = Enum.Font.Gotham
+    button.Parent = scrollFrame
+    
+    local buttonCorner = Instance.new("UICorner")
+    buttonCorner.CornerRadius = UDim.new(0, 4)
+    buttonCorner.Parent = button
+    
+    -- Event handler untuk tombol
+    button.MouseButton1Click:Connect(function()
+        teleportTo(pos.x, pos.y, pos.z, pos.name)
+        local originalText = pos.name
+        local originalColor = button.BackgroundColor3
+        
+        button.Text = "✅ " .. pos.name
+        button.BackgroundColor3 = Color3.fromRGB(40, 167, 69)
+        
+        wait(1)
+        
+        button.Text = originalText
+        button.BackgroundColor3 = originalColor
+    end)
+    
+    -- Hover effect
+    button.MouseEnter:Connect(function()
+        local hoverColor
+        if pos.name == "🏔️ PUNCAK" then
+            hoverColor = Color3.fromRGB(220, 60, 0)
+        else
+            hoverColor = Color3.fromRGB(0, 100, 220)
+        end
+        
+        local hoverTween = TweenService:Create(button, TweenInfo.new(0.15), {BackgroundColor3 = hoverColor})
+        hoverTween:Play()
+    end)
+    
+    button.MouseLeave:Connect(function()
+        local normalColor
+        if pos.name == "🏔️ PUNCAK" then
+            normalColor = Color3.fromRGB(255, 69, 0)
+        else
+            normalColor = Color3.fromRGB(0, 122, 255)
+        end
+        
+        local normalTween = TweenService:Create(button, TweenInfo.new(0.15), {BackgroundColor3 = normalColor})
+        normalTween:Play()
+    end)
+    
+    table.insert(buttons, button)
+end
+
+-- Update scroll canvas size
+local contentHeight = #teleportPositions * 28 + 10
+scrollFrame.CanvasSize = UDim2.new(0, 0, 0, contentHeight)
+
+-- Minimode frame (saat diminimize)
+local miniFrame = Instance.new("Frame")
+miniFrame.Name = "MiniFrame"
+miniFrame.Size = UDim2.new(0, 140, 0, 30)
+miniFrame.Position = UDim2.new(0, 20, 0.5, -15)
+miniFrame.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+miniFrame.BorderSizePixel = 0
+miniFrame.Parent = screenGui
+miniFrame.Active = true
+miniFrame.Draggable = true
+miniFrame.Visible = false
+
+local miniCorner = Instance.new("UICorner")
+miniCorner.CornerRadius = UDim.new(0, 8)
+miniCorner.Parent = miniFrame
+
+-- Mini title
+local miniTitle = Instance.new("TextLabel")
+miniTitle.Size = UDim2.new(1, -35, 1, 0)
+miniTitle.Position = UDim2.new(0, 8, 0, 0)
+miniTitle.BackgroundTransparency = 1
+miniTitle.Text = "🚀 Teleport (27)"
+miniTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+miniTitle.TextScaled = true
+miniTitle.Font = Enum.Font.GothamBold
+miniTitle.Parent = miniFrame
+
+-- Restore button
+local restoreButton = Instance.new("TextButton")
+restoreButton.Size = UDim2.new(0, 24, 0, 24)
+restoreButton.Position = UDim2.new(1, -27, 0, 3)
+restoreButton.BackgroundColor3 = Color3.fromRGB(40, 167, 69)
+restoreButton.BorderSizePixel = 0
+restoreButton.Text = "▲"
+restoreButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+restoreButton.TextScaled = true
+restoreButton.Font = Enum.Font.GothamBold
+restoreButton.Parent = miniFrame
+
+local restoreCorner = Instance.new("UICorner")
+restoreCorner.CornerRadius = UDim.new(0, 4)
+restoreCorner.Parent = restoreButton
+
+-- Variables untuk minimize/restore
+local isMinimized = false
+
+-- Minimize/Restore functions
+local function minimizeGUI()
+    isMinimized = true
+    mainFrame.Visible = false
+    miniFrame.Visible = true
+end
+
+local function restoreGUI()
+    isMinimized = false
+    miniFrame.Visible = false
+    mainFrame.Visible = true
+end
+
+-- Event handlers
+minimizeButton.MouseButton1Click:Connect(minimizeGUI)
+restoreButton.MouseButton1Click:Connect(restoreGUI)
+
+closeButton.MouseButton1Click:Connect(function()
+    screenGui:Destroy()
+end)
+
+-- Hover effects untuk control buttons
+local function createHoverEffect(button, hoverColor, normalColor)
+    button.MouseEnter:Connect(function()
+        local hoverTween = TweenService:Create(button, TweenInfo.new(0.15), {BackgroundColor3 = hoverColor})
+        hoverTween:Play()
+    end)
+    
+    button.MouseLeave:Connect(function()
+        local normalTween = TweenService:Create(button, TweenInfo.new(0.15), {BackgroundColor3 = normalColor})
+        normalTween:Play()
+    end)
+end
+
+createHoverEffect(minimizeButton, Color3.fromRGB(220, 170, 0), Color3.fromRGB(255, 193, 7))
+createHoverEffect(closeButton, Color3.fromRGB(220, 50, 40), Color3.fromRGB(255, 59, 48))
+createHoverEffect(restoreButton, Color3.fromRGB(30, 140, 50), Color3.fromRGB(40, 167, 69))
+
+-- Toggle GUI dengan keyboard
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    
+    if input.KeyCode == Enum.KeyCode.T then
+        if isMinimized then
+            restoreGUI()
+        else
+            if mainFrame.Visible then
+                minimizeGUI()
+            else
+                restoreGUI()
+            end
+        end
+    end
+end)
+
+-- Fade in animation
+mainFrame.BackgroundTransparency = 1
+titleBar.BackgroundTransparency = 1
+
+local fadeInTween = TweenService:Create(mainFrame, TweenInfo.new(0.3), {BackgroundTransparency = 0})
+local titleFadeTween = TweenService:Create(titleBar, TweenInfo.new(0.3), {BackgroundTransparency = 0})
+
+fadeInTween:Play()
+titleFadeTween:Play()
+
+for _, button in ipairs(buttons) do
+    button.BackgroundTransparency = 1
+    local buttonFadeTween = TweenService:Create(button, TweenInfo.new(0.3), {BackgroundTransparency = 0})
+    buttonFadeTween:Play()
+end
+
+print("✅ Teleport GUI loaded!")
+print("📍 Available positions: POS 1-26 + BAWAH PUNCAK + PUNCAK")
+print("🎯 Total locations: 28")
+print("⌨️ Press 'T' to toggle/minimize")
+print("🖱️ Drag to move GUI")
+print("⬇️ BAWAH PUNCAK is highlighted in dark orange!")
+print("🏔️ PUNCAK is highlighted in orange!")
